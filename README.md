@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Het510/LeetCode/tree/master/0061-rotate-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Het510/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Het510/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2974-minimum-number-game](https://github.com/Het510/LeetCode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Het510/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Het510/LeetCode/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
