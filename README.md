@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Het510/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het510/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Het510/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Het510/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het510/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Het510/LeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Het510/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Greedy
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Het510/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Counting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Het510/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
