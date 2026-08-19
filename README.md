@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Het510/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Het510/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
