@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Het510/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Het510/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Het510/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Het510/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Het510/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2974-minimum-number-game](https://github.com/Het510/LeetCode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Het510/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Het510/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
