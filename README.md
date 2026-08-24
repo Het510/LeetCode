@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Het510/LeetCode/tree/master/0036-valid-sudoku) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Het510/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het510/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Het510/LeetCode/tree/master/0036-valid-sudoku) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Het510/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Het510/LeetCode/tree/master/3024-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Het510/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
