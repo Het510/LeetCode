@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Het510/LeetCode/tree/master/0036-valid-sudoku) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Het510/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Het510/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Het510/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Het510/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Het510/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
