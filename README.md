@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Het510/LeetCode/tree/master/0036-valid-sudoku) |
+| [0682-baseball-game](https://github.com/Het510/LeetCode/tree/master/0682-baseball-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Het510/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het510/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Het510/LeetCode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Het510/LeetCode/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Het510/LeetCode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Het510/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
