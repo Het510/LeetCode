@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Het510/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Het510/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Het510/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Het510/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Het510/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Het510/LeetCode/tree/master/3024-type-of-triangle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Het510/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
