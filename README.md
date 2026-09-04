@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Het510/LeetCode/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/Het510/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Het510/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
