@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Het510/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/Het510/LeetCode/tree/master/0595-big-countries) |
 ## Recursion
 |  |
 | ------- |
